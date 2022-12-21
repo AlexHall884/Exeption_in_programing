@@ -6,7 +6,7 @@ public class Task2 {
     public static void main(String[] args) {
         int[] arr1 = { 2, 6, 87, 101, 90 };
         int[] arr2 = { 1, 4, 45, 67, 25 };
-        showArray(getMinArray(arr1, arr2));
+        //showArray(getMinArray(arr1, arr2));
 
     }
 

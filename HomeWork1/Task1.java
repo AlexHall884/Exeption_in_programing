@@ -1,10 +1,7 @@
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.ArrayList;
 
-import javax.sql.rowset.spi.SyncResolver;
 
 // Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
 
@@ -13,15 +10,15 @@ public class Task1 {
         
         int a = 10;
         int b = 0;
-        findSum(a, b);
+        //findSum(a, b);
 
         int[] array = {1, 4, 45, 67, 90};
-        findNumber(array, a);
+        //findNumber(array, a);
 
         String text = "TEXT";
-        StringParseInt(text);
+        //StringParseInt(text);
 
-        RedaingFile();
+       // RedaingFile();
 
     }
 
